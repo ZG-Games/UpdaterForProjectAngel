@@ -1,5 +1,5 @@
 <Version: 3.00>
-/data/test.zip hhtps://wordpress.org/latest.zip
+/data/test.zip https://wordpress.org/latest.zip
 /data/Map001.json https://raw.githubusercontent.com/ZG-Games/UpdaterForProjectAngel/master/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/ZG-Games/UpdaterForProjectAngel/master/Map002.json
 /data/Map003.json https://raw.githubusercontent.com/ZG-Games/UpdaterForProjectAngel/master/Map003.json
