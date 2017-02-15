@@ -1,8 +1,4 @@
 
-<Version: 3.01>
+<Version: 3.03>
 /data/test.zip https://wordpress.org/latest.zip
-<End of Version>
-
-<Version: 3.02>
-/data/gimp.exe https://download.gimp.org/mirror/pub/gimp/v2.8/windows/gimp-2.8.20-setup.exe
 <End of Version>
