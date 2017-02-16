@@ -1,4 +1,4 @@
 
-<Version: 3.04>
-
+<Version: 3.05>
+/data/test.zip https://wordpress.org/latest.zip
 <End of Version>
